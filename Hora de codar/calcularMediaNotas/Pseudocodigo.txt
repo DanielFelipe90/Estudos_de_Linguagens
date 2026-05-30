@@ -1,0 +1,24 @@
+                    //Programa de Cálculo de média de notas
+
+Início
+
+    Variáveis media, nota1, nota2, nota3
+
+	Exibir "***Programa de Cálculo de médias de notas***"
+	
+	Exibir e solicitar "Digite a primeira nota:"
+	Receber a primeira nota fornecida pelo usúario, nota1
+
+	Exibir e solicitar "Digite a segunda nota:"
+	Receber a segunda nota fornecida pelo usúario, nota2
+
+	Exibir e solicitar "Digite a terceira nota:"
+	Receber a terceira nota fornecida pelo usúario, nota3
+
+	//Cálculo da média
+	media = (nota1 + nota2 + nota3) / 3
+
+	Exibir "A média de notas é:"
+
+Fim
+
