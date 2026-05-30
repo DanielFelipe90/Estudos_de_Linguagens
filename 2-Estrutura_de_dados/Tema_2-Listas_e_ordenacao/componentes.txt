@@ -1,0 +1,10 @@
+--- Itens na Mochila (5/10) ---
+-----------------------------------------------------------------------
+NOME                 | TIPO                   | QUANTIDADE | PRIORIDADE
+-----------------------------------------------------------------------
+Chave Mestre         | Eletronica             | 1          | 5         
+Gerador Portatil     | Eletronico             | 2          | 2         
+Mapa de Rotas        | Estrutural             | 3          | 1         
+Placa Mae            | Eletronico             | 3          | 4         
+Radio Transmissor    | Eletronico             | 5          | 3         
+-----------------------------------------------------------------------
